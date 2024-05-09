@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React with Formik - Sign Up Page
 
 This project contains a sign up page created using React and Formik. It allows users to sign up by filling out a form and logs their answers.
@@ -49,3 +50,7 @@ This project uses the following technologies:
 
 
 
+=======
+# React with formik
+Sign up page was created with react and formik. User's answers were logged
+>>>>>>> fc7cde7fecea94460a37d1bca773c432ad1d856e
