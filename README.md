@@ -2,6 +2,12 @@
 
 This project contains a sign up page created using React and Formik. It allows users to sign up by filling out a form and logs their answers.
 
+## Screenshots
+![Sign up ](./screenshots/signup_formik2.png)
+
+![With log](./screenshots/signup_formik.png)
+
+
 ## Getting Started
 
 To clone the project to your local machine, use the following command:
